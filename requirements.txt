@@ -18,7 +18,7 @@ django-threadedcomments==0.5.3
 django-pipeline==1.1.27
 feedparser==5.1
 geopy==0.94.1
-gunicorn==0.14.3
+gunicorn==19.4.0
 psycopg2==2.4.1
 python-omgeo==1.4.1
 simplejson==2.3.2
