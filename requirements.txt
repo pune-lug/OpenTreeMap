@@ -7,7 +7,7 @@ South==0.7.5
 Unidecode==0.04.9
 django-badges==0.1.6
 django-celery==3.0.17
-django-debug-toolbar==0.9.1
+django-debug-toolbar==1.11.1
 django-extensions==0.7.1
 django-pagination==1.0.7
 django-profiles==0.2
