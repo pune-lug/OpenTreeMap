@@ -27,3 +27,4 @@ template-utils==0.4p2
 wsgiref==0.1.2
 xlrd==0.7.1
 yuicompressor==2.4.6.1
+zipp>=3.19.1 # not directly required, pinned by Snyk to avoid a vulnerability
