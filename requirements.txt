@@ -1,7 +1,7 @@
 http://downloads.sourceforge.net/project/dbfpy/dbfpy/2.2.5/dbfpy-2.2.5.tar.gz
 BeautifulSoup==3.2.0
 celery-with-redis==3.0
-Django==2.2.24
+Django==4.2.21
 PIL==1.1.7
 South==0.7.5
 Unidecode==0.04.9
