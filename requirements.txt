@@ -1,7 +1,7 @@
 http://downloads.sourceforge.net/project/dbfpy/dbfpy/2.2.5/dbfpy-2.2.5.tar.gz
 BeautifulSoup==3.2.0
 celery-with-redis==3.0
-Django==2.2.24
+Django==4.2.27
 PIL==1.1.7
 South==0.7.5
 Unidecode==0.04.9
@@ -27,3 +27,4 @@ template-utils==0.4p2
 wsgiref==0.1.2
 xlrd==0.7.1
 yuicompressor==2.4.6.1
+sqlparse>=0.5.4 # not directly required, pinned by Snyk to avoid a vulnerability
